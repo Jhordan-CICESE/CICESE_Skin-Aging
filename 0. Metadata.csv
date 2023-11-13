@@ -1,0 +1,76 @@
+﻿Muestra,Edad,Sexo,Batch,Cohorte,Década de edad,TRC (%),IMC,Ubicación,Educación,Ocupación,Mascotas,Tabaco,Alcohol,Dieta,Comorbilidades
+H0-1,3,Masculino,1,Jóvenes,0-9,1,Normal,CICESE,Sin estudios,N/A,No,No,No,Omnivoro,Ninguna
+H0-2,9,Masculino,2,Jóvenes,0-9,1,Normal,Centro,Primaria,Estudiante,No,No,No,Omnivoro,Ninguna
+H0-3,4,Masculino,3,Jóvenes,0-9,1,Normal,Centro,Sin estudios,N/A,No,No,No,Omnivoro,Ninguna
+H0-4,5,Masculino,4,Jóvenes,0-9,1,Normal,Oeste,Sin estudios,Estudiante,Si,No,No,Omnivoro,Ninguna
+H0-5,9,Masculino,5,Jóvenes,0-9,1,Normal,Norte,Primaria,Estudiante,Si,No,No,Omnivoro,Ninguna
+M0-1,9,Femenino,1,Jóvenes,0-9,1,Normal,Este,Primaria,Estudiante,Si,No,No,Omnivoro,Ninguna
+M0-2,7,Femenino,2,Jóvenes,0-9,1,Normal,Norte,Primaria,Estudiante,No,No,No,Omnivoro,Ninguna
+M0-3,7,Femenino,3,Jóvenes,0-9,1,Normal,Este,Primaria,Estudiante,Si,No,No,Omnivoro,Ninguna
+M0-4,9,Femenino,4,Jóvenes,0-9,0.56,Normal,Oeste,Primaria,Estudiante,Si,No,No,Omnivoro,Otro
+M0-5,8,Femenino,5,Jóvenes,0-9,1,Normal,Norte,Primaria,Estudiante,Si,No,No,Omnivoro,Ninguna
+H1-1,14,Masculino,1,Jóvenes, 10-19,1,Obesidad,Este,Secundaria,Estudiante,Si,No,No,Omnivoro,Ninguna
+H1-2,13,Masculino,2,Jóvenes, 10-19,1,Sobrepeso,Este,Preparatoria,Estudiante,No,No,No,Omnivoro,Ninguna
+H1-3,18,Masculino,3,Jóvenes, 10-19,1,Obesidad,Oeste,Preparatoria,Estudiante,Si,No,No,Omnivoro,Ninguna
+H1-4,12,Masculino,4,Jóvenes, 10-19,0.42,Sobrepeso,Centro,Secundaria,Estudiante,No,No,No,Omnivoro,Ninguna
+H1-5,15,Masculino,5,Jóvenes, 10-19,1,Sobrepeso,Sur,Preparatoria,Estudiante,No,No,No,Omnivoro,Ninguna
+M1-1,16,Femenino,1,Jóvenes, 10-19,1,Normal,Este,Preparatoria,Estudiante,Si,No,No,Omnivoro,Ninguna
+M1-2,16,Femenino,2,Jóvenes, 10-19,1,Normal,Este,Primaria,Estudiante,Si,No,No,Omnivoro,Ninguna
+M1-3,13,Femenino,3,Jóvenes, 10-19,1,Normal,Este,Secundaria,Estudiante,No,No,No,Omnivoro,Ninguna
+M1-4,17,Femenino,4,Jóvenes, 10-19,1,Normal,Este,Preparatoria,Estudiante,Si,No,No,Omnivoro,Ninguna
+M1-5,18,Femenino,5,Jóvenes, 10-19,1,Sobrepeso,Este,Preparatoria,Estudiante,No,No,No,Omnivoro,Ninguna
+H2-1,26,Masculino,1,Jóvenes,20-29,0.3,Normal,CICESE,Posgrado,Estudiante,No,No,Si,Omnivoro,Ninguna
+H2-2,26,Masculino,2,Jóvenes,20-29,0.62,Normal,CICESE,Posgrado,Estudiante,No,No,Si,Omnivoro,Ninguna
+H2-3,29,Masculino,3,Jóvenes,20-29,0.05,Sobrepeso,CICESE,Posgrado,Estudiante,No,No,Si,Omnivoro,Ninguna
+H2-4,29,Masculino,4,Jóvenes,20-29,1,Sobrepeso,Este,Licenciatura,Empleado,No,No,Si,Omnivoro,Hipertensión
+H2-5,20,Masculino,5,Jóvenes,20-29,0.8,Normal,Oeste,Licenciatura,Empleado,No,No,No,Omnivoro,Ninguna
+M2-1,24,Femenino,1,Jóvenes,20-29,0.46,Normal,Sur,Licenciatura,Estudiante,Si,Si,Si,Omnivoro,Ninguna
+M2-2,25,Femenino,2,Jóvenes,20-29,1,Sobrepeso,CICESE,Posgrado,Estudiante,No,No,Si,Omnivoro,Otro
+M2-3,24,Femenino,3,Jóvenes,20-29,0.06,Normal,Centro,Posgrado,Estudiante,No,No,Si,Omnivoro,Ninguna
+M2-4,25,Femenino,4,Jóvenes,20-29,0.92,Normal,CICESE,Licenciatura,Estudiante,No,No,Si,Omnivoro,Ninguna
+M2-5,24,Femenino,5,Jóvenes,20-29,0.25,Normal,Oeste,Posgrado,Estudiante,Si,No,Si,Omnivoro,Ninguna
+H3-1,34,Masculino,1,Jóvenes,30-39,0.5,Normal,Sur,Preparatoria,Empleado,Si,No,No,Omnivoro,Ninguna
+H3-2,32,Masculino,2,Jóvenes,30-39,0.09,Obesidad I,CICESE,Posgrado,Estudiante,No,No,Si,Omnivoro,Ninguna
+H3-3,35,Masculino,3,Jóvenes,30-39,0.14,Normal,Sur,Posgrado,Empleado,Si,No,Si,Omnivoro,Ninguna
+H3-4,39,Masculino,4,Mayores,30-39,0.13,Sobrepeso,Centro,Posgrado,Empleado,No,No,Si,Omnivoro,Ninguna
+H3-5,35,Masculino,5,Jóvenes,30-39,0.04,Sobrepeso,CICESE,Posgrado,Empleado,Si,No,No,Omnivoro,Ninguna
+M3-1,36,Femenino,1,Jóvenes,30-39,0.56,Sobrepeso,Norte,Posgrado,Empleado,Si,No,Si,Omnivoro,Ninguna
+M3-2,31,Femenino,2,Jóvenes,30-39,1,Normal,Centro,Licenciatura,Empleado,Si,No,Si,Omnivoro,Ninguna
+M3-3,38,Femenino,3,Mayores,30-39,0.34,Normal,CICESE,Posgrado,Empleado,Si,No,Si,Omnivoro,Otro
+M3-4,31,Femenino,4,Jóvenes,30-39,0.16,Normal,Centro,Licenciatura,Empleado,No,Si,Si,Omnivoro,Ninguna
+M3-5,37,Femenino,1,Jóvenes,30-39,0.32,Normal,CICESE,Posgrado,Empleado,Si,No,Si,Omnivoro,Otro
+H4-1,48,Masculino,2,Mayores,40-49,0.04,Normal,CICESE,Posgrado,Empleado,No,No,No,Omnivoro,Ninguna
+H4-2,45,Masculino,3,Mayores,40-49,0.13,Sobrepeso,CICESE,Posgrado,Empleado,Si,No,Si,Omnivoro,Ninguna
+H4-3,40,Masculino,4,Mayores,40-49,0.43,Normal,Oeste,Posgrado,Empleado,Si,No,Si,Omnivoro,Ninguna
+H4-4,46,Masculino,5,Mayores,40-49,0.5,Normal,CICESE,Posgrado,Empleado,No,Si,Si,Omnivoro,Ninguna
+H4-5,49,Masculino,1,Mayores,40-49,0.18,Normal,CICESE,Posgrado,Empleado,Si,No,Si,Omnivoro,Otro
+M4-1,43,Femenino,2,Mayores,40-49,0.05,Sobrepeso,CICESE,Posgrado,Estudiante,Si,No,Si,Keto,Otro
+M4-2,47,Femenino,3,Mayores,40-49,1,Sobrepeso,CICESE,Licenciatura,Empleado,Si,Si,Si,Omnivoro,Otro
+M4-3,40,Femenino,4,Mayores,40-49,1,Sobrepeso,Centro,Licenciatura,Empleado,No,No,Si,Omnivoro,Ninguna
+M4-4,40,Femenino,5,Mayores,40-49,0.25,Sobrepeso,CICESE,Posgrado,Empleado,No,No,No,Omnivoro,Ninguna
+M4-5,40,Femenino,1,Mayores,40-49,0.83,Normal,CICESE,Licenciatura,Empleado,No,No,No,Omnivoro,Ninguna
+H5-1,58,Masculino,2,Mayores,50-59,0.45,Sobrepeso,CICESE,Posgrado,Empleado,No,No,Si,Omnivoro,Ninguna
+H5-2,51,Masculino,3,Mayores,50-59,0.45,Obesidad II,CICESE,Licenciatura,Empleado,Si,No,Si,Omnivoro,Hipertensión
+H5-3,54,Masculino,4,Mayores,50-59,0.67,Sobrepeso,CICESE,Licenciatura,Empleado,Si,No,Si,Omnivoro,Otro
+H5-4,53,Masculino,5,Mayores,50-59,0.06,Sobrepeso,CICESE,Licenciatura,Empleado,Si,No,Si,Omnivoro,Ninguna
+H5-5,56,Masculino,1,Mayores,50-59,0.48,Sobrepeso,CICESE,Posgrado,Empleado,Si,No,Si,Omnivoro,Ninguna
+M5-1,55,Femenino,2,Mayores,50-59,0.95,Sobrepeso,Este,Posgrado,Empleado,Si,No,Si,Omnivoro,Hipertensión
+M5-2,54,Femenino,3,Mayores,50-59,0.43,Normal,CICESE,Posgrado,Empleado,Si,No,Si,Omnivoro,Ninguna
+M5-3,54,Femenino,4,Mayores,50-59,0.67,Sobrepeso,CICESE,Posgrado,Empleado,Si,No,Si,Omnivoro,Ninguna
+M5-4,56,Femenino,5,Mayores,50-59,0.54,Normal,CICESE,Licenciatura,Empleado,Si,No,No,Omnivoro,Ninguna
+M5-5,52,Femenino,1,Mayores,50-59,0.77,Sobrepeso,CICESE,Preparatoria,Empleado,Si,No,Si,Omnivoro,Ninguna
+H6-1,64,Masculino,2,Mayores,60-69,0.66,Normal,CICESE,Posgrado,Empleado,Si,No,Si,Omnivoro,Ninguna
+H6-2,63,Masculino,3,Mayores,60-69,0.48,Sobrepeso,CICESE,Posgrado,Empleado,No,No,Si,Omnivoro,Hipertensión
+H6-3,66,Masculino,4,Mayores,60-69,0.61,Sobrepeso,CICESE,Secundaria,Empleado,Si,No,No,Omnivoro,Ninguna
+H6-4,63,Masculino,5,Mayores,60-69,0.43,Sobrepeso,CICESE,Posgrado,Empleado,No,No,Si,Omnivoro,Ninguna
+H6-5,67,Masculino,1,Mayores,60-69,0.46,Normal,CICESE,Licenciatura,Empleado,Si,No,No,Omnivoro,Hipertensión
+M6-1,65,Femenino,2,Mayores,60-69,0.17,Normal,Sur,Licenciatura,Jubilado,Si,No,No,Otro,Ninguna
+M6-2,60,Femenino,3,Mayores,60-69,0.47,Obesidad I,CICESE,Posgrado,Empleado,Si,No,Si,Omnivoro,Ninguna
+M6-3,64,Femenino,4,Mayores,60-69,0.72,Sobrepeso,CICESE,Posgrado,Empleado,Si,No,No,Vegetariano,Ninguna
+M6-4,68,Femenino,5,Mayores,60-69,0.65,Sobrepeso,Este,Posgrado,Empleado,No,No,No,Omnivoro,Hipertensión
+M6-5,67,Femenino,1,Mayores,60-69,0.73,Normal,CICESE,Posgrado,Empleado,Si,No,No,Pescetariano,Ninguna
+H7-1,70,Masculino,2,Mayores,70-79,0.46,Normal,CICESE,Posgrado,Empleado,Si,No,No,Omnivoro,Diabetes tipo 2
+H7-2,74,Masculino,3,Mayores,70-79,0.42,Sobrepeso,CICESE,Posgrado,Empleado,Si,No,No,Omnivoro,Otro
+H7-3,73,Masculino,4,Mayores,70-79,0.74,Normal,CICESE,Posgrado,Empleado,No,No,Si,Omnivoro,Ninguna
+H7-4,74,Masculino,5,Mayores,70-79,0.41,Normal,CICESE,Posgrado,Empleado,Si,No,Si,Omnivoro,Ninguna
+M7-1,70,Femenino,5,Mayores,70-79,0.53,Obesidad I,CICESE,Preparatoria,Empleado,Si,No,Si,Omnivoro,Hipertensión

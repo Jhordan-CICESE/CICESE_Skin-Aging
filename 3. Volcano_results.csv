@@ -1,0 +1,117 @@
+Feature,Name,SMILES,Class,FC,p_value,Regulation
+119.08_25.25,Isopropenylbenzene,CC(=C)C1=CC=CC=C1,Benzene and substituted derivatives,0.548620487,0.009624279,Down
+165.07_14.03,N-[(methoxymethylamino)carbamoylamino]methanimidoyl fluoride,COCNNC(=O)NN=CF,Organonitrogen compounds,0.55323237,0.038322786,Down
+193.08_22.56,2-Fluorooctanedioic acid,C(CCC(C(=O)O)F)CCC(=O)O,Fatty Acyls,0.54592726,0.007570575,Down
+207.06_18.35,2-[(1Z)-2-Carboxy-1-propen-1-yl]benzoic acid,CC(=CC1=CC=CC=C1C(=O)O)C(=O)O,Phenol ethers,0.628027969,0.039594434,Down
+207.06_22.68,"(3-Amino-1,2,4-triazol-1-yl)methyl-ethoxyphosphinic acid",CCOP(=O)(CN1C=NC(=N1)N)O,Organic phosphoric acids and derivatives,0.573173781,0.021924928,Down
+207.06_24.39,2-(6-Methoxy-1-benzofuran-2-yl)acetic acid,COC1=CC2=C(C=C1)C=C(O2)CC(=O)O,Benzofurans,0.572937893,0.005496986,Down
+209.08_21.99,3-(3-Hydroxy-4-methoxyphenyl)-2-methylprop-2-enoic acid,CC(=CC1=CC(=C(C=C1)OC)O)C(=O)O,Cinnamic acids and derivatives,0.646709605,0.035792473,Down
+211.16_16.64,"Propynoic acid (3S)-3,7-dimethyloctyl ester",CC(C)CCCC(C)CCOC(=O)C#C,Fatty Acyls,0.577898085,0.014258375,Down
+215.12_15.66,6-(Methacryloyloxy)hexanoic acid methyl ester,CC(=C)C(=O)OCCCCCC(=O)OC,Fatty Acyls,0.527654456,0.024238258,Down
+216.15_18.13,2-Methyl-5-(2-methylbutanoylamino)pentanoic acid,CCC(C)C(=O)NCCCC(C)C(=O)O,Fatty Acyls,0.36853232,0.020560008,Down
+221.11_26.71,"1-(4-Propoxyphenyl)butane-1,3-dione",CCCOC1=CC=C(C=C1)C(=O)CC(=O)C,Organooxygen compounds,0.559450961,0.006062014,Down
+244.22_25.96,Lauric acid monoethanolamide,CCCCCCCCCCCC(=O)NCCO,Carboximidic acids and derivatives,0.426497669,0.040752813,Down
+271.09_3.955,2-Acetamido-2-(4-acetamidobut-2-ynyl)propanedioic acid,CC(=O)NCC#CCC(C(=O)O)(C(=O)O)NC(=O)C,Carboxylic acids and derivatives,0.441495397,0.032928511,Down
+277.18_26.73,"3-(3,5-Ditert-butyl-4-hydroxyphenyl)-3-oxopropanal",CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)C(=O)CC=O,Organooxygen compounds,0.494139096,0.001684344,Down
+283.11_19.89,1-methyl-N-[2-(1-methylpyrazol-4-yl)ethyl]-6-oxopyridine-3-carboxamide,CN1C=C(C=CC1=O)C(=O)NCCC2=CN(N=C2)C,Pyridines and derivatives,0.479176237,0.031666707,Down
+289.18_26.00,null,CC12CCCC(C1CCC3=C2C=CC(=C3)OC)(C)C(=O)O,Prenol lipids,0.406874619,0.015411212,Down
+294.20_26.73,"(2R,3R,4R,5E)-1,3-dibutoxy-4-fluoro-5-methoxyiminopentan-2-ol",CCCCOCC(C(C(C=NOC)F)OCCCC)O,Organooxygen compounds,0.347295776,0.000141342,Down
+295.02_29.23,"3-[5-fluoro-2-(methylamino)pyrimidin-4-yl]sulfanyl-4-methyl-1H-1,2,4-triazol-5-one",CNC1=NC=C(C(=N1)SC2=NNC(=O)N2C)F,Imidazopyrimidines,0.617383798,0.043890899,Down
+295.11_25.70,"1-O-(Nonane-4,6,8-triyne-1-yl)-beta-D-glucopyranose",C#CC#CC#CCCCOC1C(C(C(C(O1)CO)O)O)O,Fatty Acyls,0.534893933,0.008894619,Down
+295.21_26.67,"3-(2-Piperidin-1-ylethyl)-2,4,7,8,9,10-hexahydropyridazino[1,2-a][1,2,5]triazepine-1,5-dione",C1CCN(CC1)CCN2CC(=O)N3CCCCN3C(=O)C2,Carboxylic acids and derivatives,0.495549688,0.025185398,Down
+298.19_15.47,"4-ethoxy-6-hydrazinyl-N-(3-morpholin-4-ylpropyl)-1,3,5-triazin-2-amine",CCOC1=NC(=NC(=N1)NN)NCCCN2CCOCC2,Triazines,0.409242342,0.028607876,Down
+299.16_26.59,"2H-1-Benzopyran-2-one, 7-[[(2E)-3,7-dimethyl-2,6-octadienyl]oxy]-",CC(=CCCC(=CCOC1=CC2=C(C=C1)C=CC(=O)O2)C)C,Prenol lipids,0.458856141,0.00353046,Down
+299.16_26.72,(4-(Hexyloxy)-2-hydroxyphenyl)(phenyl)methanone,CCCCCCOC1=CC(=C(C=C1)C(=O)C2=CC=CC=C2)O,Benzene and substituted derivatives,0.420522439,0.001075137,Down
+320.20_25.59,2-[2-[2-[2-(2-oxobutoxy)ethoxy]ethoxy]ethoxy]-N-propan-2-ylacetamide,CCC(=O)COCCOCCOCCOCC(=O)NC(C)C,Organooxygen compounds,0.330693363,0.008125328,Down
+327.21_17.76,(2S)-1-[(2S)-2-aminopropanoyl]-N-[(2S)-5-(diaminomethylideneamino)-1-oxopentan-2-yl]pyrrolidine-2-carboxamide,CC(C(=O)N1CCCC1C(=O)NC(CCCN=C(N)N)C=O)N,Carboxylic acids and derivatives,0.567893585,0.024674146,Down
+351.21_22.24,"4-[(1E,3R)-3-[(E)-2-(4-fluorophenyl)ethenyl]-3,7-dimethylocta-1,6-dienyl]phenol",CC(=CCCC(C)(C=CC1=CC=C(C=C1)O)C=CC2=CC=C(C=C2)F)C,Benzene and substituted derivatives,0.506147047,0.020316691,Down
+360.23_14.71,2-[[6-amino-2-[[2-amino-5-(diaminomethylideneamino)pentanoyl]amino]hexanoyl]amino]acetic acid,C(CCN)CC(C(=O)NCC(=O)O)NC(=O)C(CCCN=C(N)N)N,Carboxylic acids and derivatives,0.390055109,0.044643318,Down
+362.25_15.52,N-[1-(6-ethylpyrimidin-4-yl)piperidin-4-yl]-2-(2-hydroxyethyl)piperidine-1-carboxamide,CCC1=CC(=NC=N1)N2CCC(CC2)NC(=O)N3CCCCC3CCO,Piperidines,0.57391089,0.000827166,Down
+380.22_19.47,2-[3-[6-(Cyclohexylcarbamoylamino)hexanoylamino]pyrazol-1-yl]acetic acid,C1CCC(CC1)NC(=O)NCCCCCC(=O)NC2=NN(C=C2)CC(=O)O,Carboxylic acids and derivatives,0.492995658,0.031107764,Down
+399.23_19.57,2-[5-[2-[2-[5-(2-Oxopropyl)oxolan-2-yl]propanoyloxy]butyl]oxolan-2-yl]propanoic acid,CCC(CC1CCC(O1)C(C)C(=O)O)OC(=O)C(C)C2CCC(O2)CC(=O)C,Carboxylic acids and derivatives,0.537284978,0.03749394,Down
+411.24_16.64,1-Ethyl-3-[2-[4-[2-(methylcarbamoylamino)ethylcarbamoylamino]butylcarbamoylamino]ethyl]urea,CCNC(=O)NCCNC(=O)NCCCCNC(=O)NCCNC(=O)NC,Organic carbonic acids and derivatives,0.490732878,0.037382777,Down
+413.18_17.72,propionyl-Ile-Unk-Pro-OH,CCC(C)C(C(=O)C(CC(=O)N1CCCC1C(=O)O)C(F)F)NC(=O)CC,Carboxylic acids and derivatives,0.610792293,0.029885063,Down
+415.21_26.18,8-(4-methoxybenzoyl)oxyoctyl 4-methoxybenzoate,COC1=CC=C(C=C1)C(=O)OCCCCCCCCOC(=O)C2=CC=C(C=C2)OC,Benzene and substituted derivatives,0.649815094,0.009477816,Down
+417.15_20.26,"(2R,3S,4S,5R)-2-(hydroxymethyl)-6-[3-hydroxy-2-[(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxypropoxy]oxane-3,4,5-triol",C(C1C(C(C(C(O1)OCC(CO)OC2C(C(C(C(O2)CO)O)O)O)O)O)O)O,Glycerolipids,0.600113586,0.049375128,Down
+417.15_22.52,Ser-Thr-Ser-Thr,CC(C(C(=O)NC(CO)C(=O)NC(C(C)O)C(=O)O)NC(=O)C(CO)N)O,Carboxylic acids and derivatives,0.657307339,0.013649349,Down
+419.26_26.19,"1,4,7,10-Tetra-(2-carbamoyl methyl)-cyclododecane",C1CC(CCC(CCC(CCC1CC(=O)N)CC(=O)N)CC(=O)N)CC(=O)N,Fatty Acyls,0.597143456,0.018437176,Down
+425.22_22.15,(4S)-5-[(2-methylpropan-2-yl)oxy]-4-[[(2R)-5-[(2-methylpropan-2-yl)oxy]-5-oxopentan-2-yl]carbamoylamino]-5-oxopentanoic acid,CC(CCC(=O)OC(C)(C)C)NC(=O)NC(CCC(=O)O)C(=O)OC(C)(C)C,Carboxylic acids and derivatives,0.496234104,0.002407441,Down
+425.23_22.14,"[(1E,3E,6Z,10E)-3-(acetyloxymethylidene)-7-formyl-11,15-dimethylhexadeca-1,6,10,14-tetraenyl] acetate",CC(=CCCC(=CCCC(=CCCC(=COC(=O)C)C=COC(=O)C)C=O)C)C,Prenol lipids,0.51233171,0.002268596,Down
+432.24_26.07,Ethyl 7-[4-acetyloxynon-2-ynyl(methylsulfonyl)amino]heptanoate,CCCCCC(C#CCN(CCCCCCC(=O)OCC)S(=O)(=O)C)OC(=O)C,Fatty Acyls,0.477535264,0.007730916,Down
+439.23_23.83,benzyl N-[1-[[1-(cyanomethylamino)-4-methyl-1-oxopentan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]carbamate,CC(C)CC(C(=O)NCC#N)NC(=O)C(CC(C)C)NC(=O)OCC1=CC=CC=C1,Fatty Acyls,0.543244502,0.026013842,Down
+441.21_17.52,Pro-Pro-Pro-Met,CSCCC(C(=O)O)NC(=O)C1CCCN1C(=O)C2CCCN2C(=O)C3CCCN3,Carboxylic acids and derivatives,0.629615021,0.04269537,Down
+443.05_14.86,"1,4-Bis[(5-phenyl-1,3,4-thiadiazol-2-yl)sulfanyl]butane",C1=CC=C(C=C1)C2=NN=C(S2)SCCCCSC3=NN=C(S3)C4=CC=CC=C4,Thioethers,0.370621191,0.024355612,Down
+458.25_13.39,"4-[5-[[(1-benzoylpiperidin-4-yl)-methylamino]methyl]pyrazin-2-yl]-N,N-dimethylbenzamide",CN(C)C(=O)C1=CC=C(C=C1)C2=NC=C(N=C2)CN(C)C3CCN(CC3)C(=O)C4=CC=CC=C4,Benzene and substituted derivatives,0.504401479,0.044920651,Down
+511.26_22.53,N-[2-[4-(octylsulfonylamino)phenyl]ethyl]octane-1-sulfonamide,CCCCCCCCS(=O)(=O)NCCC1=CC=C(C=C1)NS(=O)(=O)CCCCCCCC,Benzene and substituted derivatives,0.563526797,0.027119952,Down
+519.32_25.70,"1,1'-(1,4-Butanediyl)bis[3-(4,4,5,5-tetramethyl-1,3,2-dioxaphospholan-2-yl)hexahydropyrimidine]",CC1(C(OP(O1)N2CCCN(C2)CCCCN3CCCN(C3)P4OC(C(O4)(C)C)(C)C)(C)C)C,Diazinanes,0.503465496,0.015583112,Down
+519.32_25.99,4-O-[4-[6-(2-ethoxyethoxycarbonylamino)hexylcarbamoyloxy]butyl] 1-O-pentyl butanedioate,CCCCCOC(=O)CCC(=O)OCCCCOC(=O)NCCCCCCNC(=O)OCCOCC,Carboxylic acids and derivatives,0.577221623,0.028202102,Down
+531.27_25.71,"2,3,14-trihydroxy-10,13-dimethyl-17-(2,3,6-trihydroxy-6-methyl-5-methylideneheptan-2-yl)-2,3,4,5,9,11,12,15,16,17-decahydro-1H-cyclopenta[a]phenanthren-6-one",CC12CCC3C(=CC(=O)C4C3(CC(C(C4)O)O)C)C1(CCC2C(C)(C(CC(=C)C(C)(C)O)O)O)O,Steroids and steroid derivatives,0.602253114,0.022052949,Down
+535.32_25.69,Val-Val-Val-Ala-Ala-Ala,CC(C)C(C(=O)NC(C(C)C)C(=O)NC(C(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)NC(C)C=O)N,Carboxylic acids and derivatives,0.528576804,0.039786258,Down
+543.30_16.32,"[(2S)-2-heptanoyloxy-3-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxypropyl] decanoate",CCCCCCCCCC(=O)OCC(COC1C(C(C(C(O1)CO)O)O)O)OC(=O)CCCCCC,Glycerolipids,0.504051664,0.03488822,Down
+545.34_26.28,"Bis(2-methyl-2-propanyl) 1,12-dodecanediylbis[(2-cyanoethyl)carbamate]",CC(C)(C)OC(=O)N(CCCCCCCCCCCCN(CCC#N)C(=O)OC(C)(C)C)CCC#N,Fatty Acyls,0.553659043,0.038304218,Down
+549.79_15.01,H-Leu-DLeu-His-Asp-His-Pro-Asn-Pro-Arg-OH|L-(D-Leu)-HDHPNPR,CC(C)C[C@H](N)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](Cc1cnc[nH]1)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](Cc1cnc[nH]1)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCNC(=N)N)C(=O)O,Carboxylic acids and derivatives,0.424030282,0.011082693,Down
+577.28_27.01,"(2R)-3-({[(2S)-2,3-Dihydroxypropoxy](hydroxy)phosphoryl}oxy)-2-hydroxypropyl (11Z)-11-icosenoate",CCCCCCCCC=CCCCCCCCCCC(=O)OCC(COP(=O)(O)OCC(CO)O)O,Organooxygen compounds,0.383454001,0.018343457,Down
+577.34_25.32,"(5?,8?,9?,10?,13?,14?,17?)-15-Acetoxy-3-[(2,6-dideoxy-3-O-methylhexopyranosyl)oxy]-14-hydroxycard-20(22)-enolide",CC1C(C(CC(O1)OC2CCC3(C(C2)CCC4C3CCC5(C4(C(CC5C6=CC(=O)OC6)OC(=O)C)O)C)C)OC)O,Steroids and steroid derivatives,0.561436008,0.026039973,Down
+584.33_8.592,null,CC(C)C(C(=O)NC(C)C(=O)NC(C(C)C)C(=O)NC(C)C(=O)O)NC(=O)C1CCCN1C(=O)C(CCC(=O)N)N,Carboxylic acids and derivatives,0.497645797,0.041109537,Down
+124.05_2.738,"1,5-Dihydroimidazo[1,5-b]pyrazol-6-one",C1=CNN2C1=CNC2=O,Azoles,3.741593232,0.000473731,Up
+133.08_2.395,"1,4,7-Trioxonane",C1COCCOCCO1,Organooxygen compounds,1.931582251,0.015017394,Up
+154.12_10.14,Gabapentin-lactam,C1CCC2(CC1)CC(=O)NC2,Azaspirodecane derivatives,1.895588161,0.0066815,Up
+157.12_13.97,5-Cyclobutylpentanoic Acid,C1CC(C1)CCCCC(=O)O,Fatty Acyls,1.707350363,0.00976408,Up
+167.10_13.57,Hexyl acetate,CCCCCCOC(=O)C,Carboxylic acids and derivatives,1.53839119,0.043488227,Up
+169.12_20.15,Chrysanthemic acid,CC(=CC1C(C1(C)C)C(=O)O)C,Prenol lipids,1.7311464,0.037135954,Up
+172.13_10.17,Gabapentin,C1CCC(CC1)(CC(=O)O)CN,Carboxylic acids and derivatives,1.555276467,0.008747627,Up
+177.11_8.343,"2,3-Dihydroxypropyl pentanoate",CCCCC(=O)OCC(CO)O,Glycerolipids,2.262467439,0.019162623,Up
+179.11_2.454,3-Phenylpropylurea,C1=CC=C(C=C1)CCCNC(=O)N,Benzene and substituted derivatives,2.342326502,0.027460358,Up
+191.12_24.08,"(3R,8R)-3,8-Dihydroxynonanoic acid",CC(CCCCC(CC(=O)O)O)O,Hydroxy acids and derivatives,1.886028835,0.02770039,Up
+195.08_6.508,Caffeine,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,Imidazopyrimidines,2.124486903,0.000655351,Up
+195.11_2.396,2-[2-[2-(fluoroamino)ethoxy]ethoxy]-N-methylacetamide,CNC(=O)COCCOCCNF,Carboxylic acids and derivatives,2.675496966,0.00295231,Up
+196.14_2.373,4-[Methyl(propyl)amino]butanehydrazide,CCCN(C)CCCC(=O)NN,Carboxylic acids and derivatives,2.095703258,0.038712493,Up
+197.12_10.17,"2,6-Diamino-4-pyrrolizinopyrimidine 1-oxide",C1CCN(C1)C2=CC(=N)N([C](N2)N)[O-],Diazines,1.618950571,0.022508548,Up
+207.10_13.64,"6-(6-Oxocyclohexa-1,3-dien-1-yl)hex-5-enoic acid",C1C=CC=C(C1=O)C=CCCCC(=O)O,Fatty Acyls,1.972377518,0.011210631,Up
+211.13_8.734,Massbank:PR300771 Cyclo(proline-leucine),CC(C)CC1C(=O)N2CCCC2C(=O)N1,Carboxylic acids and derivatives,2.119500266,0.004372945,Up
+211.13_9.535,Cyclo(Leu-Pro),CC(C)CC1C(=O)N2CCCC2C(=O)N1,Carboxylic acids and derivatives,2.502589937,7.99952E-05,Up
+211.16_14.95,"4-(3-Hydroxybutyl)-3,5,5-trimethylcyclohex-2-en-1-one",CC1=CC(=O)CC(C1CCC(C)O)(C)C,Prenol lipids,1.624302642,0.029525325,Up
+215.13_10.19,Dethiobiotin,CC1C(NC(=O)N1)CCCCCC(=O)O,Azoles,1.572265622,0.002298217,Up
+239.12_19.10,6-Pentanoyloxyhexanoic acid,CCCCC(=O)OCCCCCC(=O)O,Fatty Acyls,1.555264899,0.026734814,Up
+246.17_4.100,2-Methylbutyrylcarnitine,CCC(C)C(=O)OC(CC(=O)O)C[N+](C)(C)C,Fatty Acyls,1.782806997,0.035961507,Up
+265.13_4.860,[[(2-Amino-4-methylpentanoyl)amino]-cyclopropylmethyl]phosphonic acid,CC(C)CC(C(=O)NC(C1CC1)P(=O)(O)O)N,Carboxylic acids and derivatives,2.191631354,0.013716726,Up
+269.13_11.32,"5-(2,6-Diamino-3,6-dihydropurin-9-yl)-2-(hydroxymethyl)oxolan-3-ol",C1C(C(OC1N2C=NC3=C2NC(=NC3N)N)CO)O,Purine nucleosides,1.763250889,0.018343986,Up
+273.17_15.37,"1,11-Diaminoundecane-2,4,8,10-tetrol",C(CC(CC(CN)O)O)CC(CC(CN)O)O,Organonitrogen compounds,2.005044992,0.008791541,Up
+276.13_2.539,Dibutyl (1-cyano-2-oxopropyl)phosphonate,CCCCOP(=O)(C(C#N)C(=O)C)OCCCC,Organic phosphonic acids and derivatives,1.823865318,0.017017612,Up
+276.13_4.061,"4-Amino-1-[1-(4-fluoro-1,3-dihydroxypentan-2-yl)oxyethyl]pyrimidin-2-one",CC(C(C(CO)OC(C)N1C=CC(=NC1=O)N)O)F,Diazines,1.779037979,0.013945253,Up
+276.13_4.423,null,CC(C)C1COC(=O)N1C(=O)C(C)C(CC=C)(F)F,Carboxylic acids and derivatives,1.733583598,0.039112735,Up
+283.17_5.128,Hexagol,C(COCCOCCOCCOCCOCCO)O,Organooxygen compounds,1.526827749,0.009373599,Up
+283.17_5.628,4-(3-Fluorononoxy)benzoic acid,CCCCCCC(CCOC1=CC=C(C=C1)C(=O)O)F,Benzene and substituted derivatives,2.024991616,0.013390379,Up
+286.14_1.732,Ac-Gly-Gly-DL-Ala(Unk)-OH,CC=CCC(C(=O)O)NC(=O)CNC(=O)CNC(=O)C,Polypeptides,1.628355069,0.014594699,Up
+289.17_10.33,"1,3-Bis(5-carboxypentyl)urea",C(CCC(=O)O)CCNC(=O)NCCCCCC(=O)O,Fatty Acyls,1.95036027,0.006738913,Up
+289.18_1.508,null,CC(C)CC(C(=O)NC(CCCNC(=O)N)C(=O)O)N,Carboxylic acids and derivatives,1.53670087,0.04231236,Up
+297.15_5.314,"2-azido-N-[1-[(2-azidoacetyl)amino]-1,4-diazepan-2-yl]acetamide",C1CNCC(N(C1)NC(=O)CN=[N+]=[N-])NC(=O)CN=[N+]=[N-],Azoles,1.951814284,0.014201517,Up
+299.14_15.66,"2-O-ethyl 1-O,1-O-bis(2-methylprop-2-enyl) ethane-1,1,2-tricarboxylate",CCOC(=O)CC(C(=O)OCC(=C)C)C(=O)OCC(=C)C,Carboxylic acids and derivatives,1.521502045,0.020201005,Up
+300.20_5.102,"6-ethoxy-2-N-[2-(2-methoxyethoxy)ethyl]-4-N-propyl-1,3,5-triazine-2,4-diamine",CCCNC1=NC(=NC(=N1)OCC)NCCOCCOC,Carboxylic acids and derivatives,2.173559091,0.025626847,Up
+310.16_1.212,"2-(4-Benzyl-4-methylpiperazin-4-ium-1-yl)-1,3,2lambda5-oxazaphosphinane 2-oxide",C[N+]1(CCN(CC1)P2(=O)NCCCO2)CC3=CC=CC=C3,Organonitrogen compounds,1.500512106,0.04123771,Up
+315.22_7.478,Ethyl 2-acetamido-7-oxo-7-(pentylamino)heptanoate,CCCCCNC(=O)CCCCC(C(=O)OCC)NC(=O)C,Carboxylic acids and derivatives,1.913170352,0.033342112,Up
+316.13_10.89,Pyroglutamyltryptophan,C1CC(=O)NC1C(=O)NC(CC2=CNC3=CC=CC=C32)C(=O)O,Carboxylic acids and derivatives,1.586317264,0.027062801,Up
+331.22_8.171,"Pentanoic acid, 5-[[6-[[(1,1-dimethylethoxy)carbonyl]amino]hexyl]amino]-5-oxo-",CC(C)(C)OC(=O)NCCCCCCNC(=O)CCCC(=O)O,Fatty Acyls,2.406558329,0.000561066,Up
+344.22_8.329,H-Ala-Lys-Ala-Ala-al,CC(C=O)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(C)N,Carboxylic acids and derivatives,1.980164661,0.00641623,Up
+356.17_2.059,"L-Histidine, N,3-bis[(1,1-dimethylethoxy)carbonyl]-",CC(C)(C)OC(=O)NC(CC1=CN=CN1C(=O)OC(C)(C)C)C(=O)O,Carboxylic acids and derivatives,2.104714184,0.012200213,Up
+357.24_2.973,"N,N''-pentane-1,5-diylbis(2-morpholin-4-ylacetamide)",C1COCCN1CC(=O)NCCCCCNC(=O)CN2CCOCC2,Carboxylic acids and derivatives,2.469153929,0.026126559,Up
+361.11_6.344,Syringic acid-4-beta-D-glucopyranoside,COC1=CC(=CC(=C1OC2C(C(C(C(O2)CO)O)O)O)OC)C(=O)O,Tannins,1.647707528,0.043368484,Up
+367.26_17.54,(3R)-8''-apo-beta-caroten-12''-al-3-ol,CC1=C(C(CC(C1)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=O)C)C,Prenol lipids,1.95036598,0.029310837,Up
+379.14_12.01,"methyl 3-[1-(3,4-dimethoxyphenyl)-1-hydroxypropan-2-yl]oxy-4,5-dihydroxybenzoate",CC(C(C1=CC(=C(C=C1)OC)OC)O)OC2=CC(=CC(=C2O)O)C(=O)OC,Unassigned,1.534005164,0.003904632,Up
+385.20_9.913,null,CC(C)(C)C(CO)C(C(C(CO)O)OC1C(C(C(C(O1)CO)O)O)O)O,Saccharolipids,1.65644147,0.032515727,Up
+385.20_9.943,Ac-Pro-Leu-Gly-Gly-OH,CC(C)CC(C(=O)NCC(=O)NCC(=O)O)NC(=O)C1CCCN1C(=O)C,Carboxylic acids and derivatives,1.747138017,0.014156335,Up
+388.25_9.755,H-Ile-aThr-Gly-Orn-al,CCC(C)C(C(=O)NC(C(C)O)C(=O)NCC(=O)NC(CCCN)C=O)N,Polypeptides,1.54831989,0.039016492,Up
+394.21_9.756,methyl N-[2-[(2R)-2-amino-3-[[(2S)-1-[3-(dimethylamino)propylamino]-3-hydroxy-1-oxopropan-2-yl]amino]-3-oxopropyl]sulfanylethyl]carbamate,CN(C)CCCNC(=O)C(CO)NC(=O)C(CSCCNC(=O)OC)N,Carboxylic acids and derivatives,2.223950287,0.015068631,Up
+399.19_10.15,"[4-(3,4-Dimethoxybenzoyl)piperazin-1-yl]-(4-ethoxyphenyl)methanone",CCOC1=CC=C(C=C1)C(=O)N2CCN(CC2)C(=O)C3=CC(=C(C=C3)OC)OC,Benzene and substituted derivatives,2.150094467,0.020644703,Up
+429.23_10.87,1-Ethyl-2-(2-hydroxy-2-methyl-3-morpholin-4-ylpropyl)-3-[2-(pyridin-3-ylsulfonylamino)ethyl]guanidine,CCNC(=NCC(C)(CN1CCOCC1)O)NCCNS(=O)(=O)C2=CN=CC=C2,Pyridines and derivatives,1.685209758,0.020209742,Up
+432.28_10.73,Unk-N(Boc)Orn(1)-NH2.H-Gly-(1),CC(C)(C)OC(=O)NCCN(C(CCCNC(=O)CN)C(=O)N)C(=O)OC(C)(C)C,Carboxylic acids and derivatives,1.698242721,0.015040571,Up
+437.23_10.74,Phe-Ala-Thr-Val,CC(C)C(C(=O)O)NC(=O)C(C(C)O)NC(=O)C(C)NC(=O)C(CC1=CC=CC=C1)N,Carboxylic acids and derivatives,1.633557557,0.014067563,Up
+438.98_11.79,N-[3-chloro-4-(methanesulfonamido)phenyl]-4-methylsulfonylbenzenesulfonamide,CS(=O)(=O)C1=CC=C(C=C1)S(=O)(=O)NC2=CC(=C(C=C2)NS(=O)(=O)C)Cl,Benzene and substituted derivatives,2.143182096,0.047836712,Up
+453.34_11.53,"3,9-Di(butan-2-yl)-6,12-bis(2-methylpropyl)-1,4,7,10-tetrazacyclododecane-2,5,8,11-tetrone",CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CC(C)C)C(C)CC)CC(C)C,Carboxylic acids and derivatives,2.801781345,0.004584451,Up
+476.30_11.51,"[(4S)-4-amino-5-[[(2S)-2,5-bis[(2-methylpropan-2-yl)oxycarbonylamino]pentyl]amino]-5-oxopentyl]carbamic acid",CC(C)(C)OC(=O)NCCCC(CNC(=O)C(CCCNC(=O)O)N)NC(=O)OC(C)(C)C,Organic carbonic acids and derivatives,1.6506648,0.037328589,Up
+511.23_0.830,Pyr-Gly-Arg-Phe-amide,C1CC(=O)NC1C(=O)NCC(=O)NC(CCCN=C(N)N)C(=O)NC(CC2=CC=CC=C2)C(=O)N,Carboxylic acids and derivatives,1.67779114,0.041085327,Up
+520.33_12.17,"2-[4,7,10-Tris(2-amino-2-oxoethyl)-6-[[4-(methylamino)phenyl]methyl]-1,4,7,10-tetrazacyclododec-1-yl]acetamide",CNC1=CC=C(C=C1)CC2CN(CCN(CCN(CCN2CC(=O)N)CC(=O)N)CC(=O)N)CC(=O)N,Organonitrogen compounds,1.964083892,0.024449727,Up
+547.31_18.08,"N-[12-(3-Aminopropoxy)-23-[1,2-dihydroxy-2-(4-hydroxyphenyl)ethyl]-2,11,15-trihydroxy-6,20-bis(1-hydroxyethyl)-16-methyl-5,8,14,19,22,25-hexaoxotetracosahydro-1H-dipyrrolo[2,1-c:2',1'-l][1,4,7,10,13,1 6]hexaazacyclohenicosin-9-yl]hexadecanamide",CCCCCCCCCCCCCCCC(=O)NC1CC(O)C(OCCCN)NC(=O)C2C(O)C(C)CN2C(=O)C(C(C)O)NC(=O)C(C(O)C(O)c2ccc(O)cc2)NC(=O)C2CC(O)CN2C(=O)C(C(C)O)NC1=O,Carboxylic acids and derivatives,2.019352277,0.036962931,Up
+564.35_12.76,Gly-Pro-Arg-Pro,C1CC(N(C1)C(=O)CN)C(=O)NC(CCCN=C(N)N)C(=O)N2CCCC2C(=O)NCC3CCC(CC3)C(=O)N,Polypeptides,1.914524829,0.041224686,Up
+611.19_14.41,Hesperidin,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3cc(c4c(c3)O[C@@H](CC4=O)c5ccc(c(c5)O)OC)O)O)O)O)O)O)O,Flavonoids,3.019920918,0.010761327,Up
+629.28_9.090,null,COC1C(O)C(C)OC(OC2C(OC3C(O)C(C)OC(OC4CC5C(=CCC6(C)C5CCC6C(C)(O)C(=O)/C=C/C(C)(C)O)C5(C)CCC(OS(=O)(=O)O)CC45)C3O)OCC(OC3OC(C)C(O)C(O)C3OC3OC(C)C(O)C(O)C3O)C2O)C1O,Steroids and steroid derivatives,1.851851938,0.018052563,Up
